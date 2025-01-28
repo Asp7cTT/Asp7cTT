@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Asp7cTT
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: @Asp7cTT on every social media
 
 <!---
