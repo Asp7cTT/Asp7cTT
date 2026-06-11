@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Asp7cTT
+- 👋 Hi, I’m Nick Mandegar
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Pentesting
+- 🌱 I’m currently learning Pentesting and looking forward to work as a bug bounty specialist
 
 <!---
 Asp7cTT/Asp7cTT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
